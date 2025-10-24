@@ -4,7 +4,7 @@ A machine learning project to predict whether a breast tumor is **benign (0)** o
 
 ## 🛠 Tech Stack
 
-- **Python**
+- **Python 3.x**
 - **NumPy & Pandas** (Data manipulation)
 - **Matplotlib & Seaborn** (Visualization)
 - **Scikit-learn** (Machine Learning)
