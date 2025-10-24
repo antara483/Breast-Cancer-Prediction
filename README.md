@@ -2,6 +2,13 @@
 
 A machine learning project to predict whether a breast tumor is **benign (0)** or **malignant (1)** using the Breast Cancer Wisconsin Dataset. This project demonstrates the complete machine learning pipeline from data preprocessing to model evaluation and visualization.
 
+## 🛠 Tech Stack
+
+- **Python**
+- **NumPy & Pandas** (Data manipulation)
+- **Matplotlib & Seaborn** (Visualization)
+- **Scikit-learn** (Machine Learning)
+  
 ## 📋 Project Overview
 
 This project implements and compares machine learning models for breast cancer classification, providing insights into model performance, feature importance, and prediction probabilities.
@@ -29,13 +36,6 @@ This project implements and compares machine learning models for breast cancer c
 - **Logistic Regression** achieved high ROC-AUC score
 - **Random Forest** provided comparable performance
 - **Threshold Analysis**: Experimented with different probability thresholds to optimize trade-offs between sensitivity and specificity
-
-## 🛠 Tech Stack
-
-- **Python**
-- **NumPy & Pandas** (Data manipulation)
-- **Matplotlib & Seaborn** (Visualization)
-- **Scikit-learn** (Machine Learning)
 
 ## 🧩 Highlights
 
