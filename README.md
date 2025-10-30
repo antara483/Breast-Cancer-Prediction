@@ -2,6 +2,24 @@
 
 A machine learning project to predict whether a breast tumor is **benign (0)** or **malignant (1)** using the Breast Cancer Wisconsin Dataset. This project demonstrates the complete machine learning pipeline from data preprocessing to model evaluation and visualization.
 
+## 🖼️ Model Output
+
+Here’s how the Logistic Regression Confusion Matrix looks:
+
+![Confusion Matrix](images/Screenshot%201.png)
+
+Here’s the ROC Curve:
+
+![Accuracy Score](images/Screenshot%202.png)
+
+Here's the Logistic Regression Feature Coeficients:
+
+![Accuracy Score](images/Screenshot%203.png)
+
+And the Sigmoid Function:
+
+![Accuracy Score](images/Screenshot%204.png)
+
 Dataset[https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data]
 ## 🛠 Tech Stack
 
